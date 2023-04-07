@@ -12,6 +12,7 @@ Możesz utworzyć tabelę na kilka sposobów:
 | Wypłata       | 5000    | Zakupy spożywcze | -300    |
 | Prezent       | 250     | Sukienka z Zary  | -1700   |
 | Suma dochodów:|         | Suma wydatków:   | -1700   |
+
 **Sposób 2:** Dochody i wydatki znajdują się w jednej kolumnie i różnią się tylko znakiem **+/-** (znaku "+" nie piszemy) jest to stosunkowo proste i szybkie rozwiązanie, ale ma też swoje minusy - w przypadku dużej ilości, arkusz będzie dłuuugi i wąski, a także będzie trzeba zastosować bardziej skomplikowane operacje i funkcje w celu podliczania statystyk, sum itp.
 
 | Dochody/Wydatki  | Wartość |
