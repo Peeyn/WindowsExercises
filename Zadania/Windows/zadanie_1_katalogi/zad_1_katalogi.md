@@ -8,6 +8,7 @@
 │   │   │   │   ├── folder_1_1
 │   │   │   │   ├── folder_1_2
 │   │   ├── folder_2
+│   │   │   │   ├── folder_2_1
 │   │   ├── folder_3
 ```
 
