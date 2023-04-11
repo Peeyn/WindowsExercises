@@ -12,26 +12,35 @@
 4. Wprowadź przykładowe dane.  
 ![screenshot](4.png)
 
-5. Zmień format daty na długą.
+5. Zmień format daty na długą.  
 ![screenshot](5.png)
 
-5. Chcemy, aby dane z kolumny **B** były sumowane, w tym celu wykonaj następujące kroki:  
+6. Chcemy, aby dane z kolumny **B** były sumowane, w tym celu wykonaj następujące kroki:  
 Dodaj etykietę "Suma godzin:" w komórce A12.  
 Dodaj formułę *=suma(B2:B11)* w komórce **B12** i naciśnij *Enter*  
 ![screenshot](6.png)  
 ![screenshot](7.png)  
 
-6. Zmień format liczb kolumn **C** i **D** na "Walutowe".
+7. Zmień format liczb kolumn **C** i **D** na "Walutowe".  
 ![screenshot](8.png)
 
-7. Wykonaj operację mnożenia komórek kolumn B i C (liczba godzin x stawka godzinowa):  
+8. Wykonaj operację mnożenia komórek kolumn B i C (liczba godzin x stawka godzinowa):  
 W komórce **D2** wprowadź formułę: *=iloczyn(B2;C2)* i naciśnij *Enter*  
 ![screenshot](9.png)  
 ![screenshot](10.png)  
-8. Zaznacz komórkę D2, najedź na prawy dolny róg komórki do pojawienia się czarnego krzyżyka. Kliknij i przeciągnij w ten sposób komrkę do komórki **D11**. W ten sposób formuła z komórki D2 zostanie automatycznie zastosowana do następnych.   
+
+9. Zaznacz komórkę D2, najedź na prawy dolny róg komórki do pojawienia się czarnego krzyżyka. Kliknij i przeciągnij w ten sposób komrkę do komórki **D11**. W ten sposób formuła z komórki D2 zostanie automatycznie zastosowana do następnych.   
 ![screenshot](11.png)  
 ![screenshot](12.png)  
 
 
-9. Spróbuj teraz samodzielnie dodać sumę pieniędzy, tak, aby arkusz ostatecznie wyglądał w następujący sposób:  
+10. Spróbuj teraz samodzielnie dodać sumę pieniędzy, tak, aby arkusz ostatecznie wyglądał w następujący sposób:  
 ![screenshot](13.png)
+
+11. Spróbuj dodać kilka dodatkowych obliczeń:
+- Średnia dzienna pensja
+- Średnia stawka godzinowa
+- Średnia dzienna liczba godzin
+- Przykładowe wydatki
+- Odjęcie 5% zarobionych pieniędzy na składki
+- Dodanie 15% do płacy za pracę w weekendy
