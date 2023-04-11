@@ -4,14 +4,14 @@ Utwórz nowy arkusz kalkulacyjny Excel.
 
  1.  Utwórz arkusz budżetowy, który oblicza miesięczne wydatki i dochody.  
  
-Możesz utworzyć tabelę na kilka sposobów:
+Możesz utworzyć tabelę na kilka sposobów:  
 **Sposób 1:** Dochody są w oddzielnej kolumnie niż wydatki - jest to bardziej przejrzyste i nie ma konieczności dodawania znaku "-" w przypadku wydatków. Ma to też swoje minusy, ale im bardziej przejrzyście tym lepiej.
  
 | Dochody       | Wartość | Wydatki          | Wartość |
 |---------------|---------|------------------|---------|
 | Wypłata       | 5000    | Zakupy spożywcze | -300    |
 | Prezent       | 250     | Sukienka z Zary  | -1700   |
-| Suma dochodów:|         | Suma wydatków:   | -1700   |
+| Suma dochodów:|         | Suma wydatków:   |         |
 
 **Sposób 2:** Dochody i wydatki znajdują się w jednej kolumnie i różnią się tylko znakiem **+/-** (znaku "+" nie piszemy) jest to stosunkowo proste i szybkie rozwiązanie, ale ma też swoje minusy - w przypadku dużej ilości, arkusz będzie dłuuugi i wąski, a także będzie trzeba zastosować bardziej skomplikowane operacje i funkcje w celu podliczania statystyk, sum itp.
 
